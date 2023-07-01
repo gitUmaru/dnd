@@ -61,18 +61,15 @@ There is a lot of writing in this repository and this repo presents much of that
 
 ```
 |-- adventures
-|   |-- adventure1
-|   |-- adventure2
+|   |-- homebew
+|   |   |-- adventure1.md    
+|   |-- adventure2.md
 |   |-- ...
 |
 |-- characters
-|   |-- character1
-|   |-- character2
-|   |-- ...
-|
-|-- rules
-|   |-- core_rules.md
-|   |-- custom_rules.md
+|   |-- npc
+|   |   |-- character1.md    
+|   |-- character2.md
 |   |-- ...
 |
 |-- resources
@@ -88,8 +85,6 @@ There is a lot of writing in this repository and this repo presents much of that
 
 * The `characters` directory stores information related to player characters (PCs) or non-player characters (NPCs). Feel free to include character sheets, backstories, and any additional resources specific to a character.
 
-* The `rules` directory contains core rules and custom rules created by the community. Use markdown format to document these rules for easy reading and accessibility.
-
 * The `resources` directory is a repository for various D&D-related resources. This can include maps, item cards, spellbook templates, handouts, or any other visual aids that enhance the gameplay experience.
 
 ## Getting Started
@@ -100,17 +95,13 @@ For adventure modules, open the respective folders to find detailed notes, encou
 
 The `characters` directory provides character sheets and backstories. Feel free to use them as-is or modify them to suit your needs.
 
-The `rules` section contains core rules as well as custom rules created by the community. Familiarize yourself with these rules to enhance your gaming experience or contribute your own rules for others to use.
-
 Lastly, the `resources` directory offers visual aids such as maps, item cards, and spellbook templates. These resources can greatly enhance immersion and engagement during gameplay and work well when used with Owlbear (see above).
 
 ## Using this Repository with Obsidian
 
-This repository uses  [obsidian](https://obsidian.md/). Obsidian is a powerful note-taking and knowledge management tool that can greatly enhance your experience in using this repository. Here are some tips on how to integrate this repository with Obsidian:
+This repository uses  [obsidian](https://obsidian.md/). Obsidian is a powerful note-taking and knowledge management tool that can greatly enhance your experience in using this repository. Clone the repo and open the folder as a vault.
 
 **Note**: Obsidian is a third-party tool. Make sure to refer to their documentation for specific usage instructions.
-
-Happy note-taking and exploring!
 
 ## Contributing
 
