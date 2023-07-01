@@ -124,7 +124,7 @@ Contributions to this repository are highly encouraged! If you have adventure mo
 
 ## License
 
-This repository is licensed under the [Creative Commons BY-NC-ND](LICENSE.md). By contributing to this repository, you agree to make your contributions available under the same license. Make sure to review the license file for more details.
+This repository is licensed under the [Creative Commons BY-NC-ND](LICENSE). By contributing to this repository, you agree to make your contributions available under the same license. Make sure to review the license file for more details.
 
 Happy adventuring! May your dice rolls be ever in your favor!
 
