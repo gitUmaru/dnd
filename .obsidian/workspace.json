@@ -25,31 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "adventures/homebrew/shadows of the shifting sands/1_monologue.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "048659457e522bdc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "rules/README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "55de8f5017835361",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "rules/README.md",
+                "file": "adventures/homebrew/night of the living dreads/0_synopsis.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "adventures/homebrew/shadows of the shifting sands/1_monologue.md",
+                "file": "adventures/homebrew/night of the living dreads/0_synopsis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "adventures/homebrew/shadows of the shifting sands/1_monologue.md",
+                "file": "adventures/homebrew/night of the living dreads/0_synopsis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "adventures/homebrew/shadows of the shifting sands/1_monologue.md"
+                "file": "adventures/homebrew/night of the living dreads/0_synopsis.md"
               }
             }
           }
@@ -185,15 +161,19 @@
   },
   "active": "27622a997f5ab4d5",
   "lastOpenFiles": [
+    "adventures/homebrew/night of the living dreads/0_synopsis.md",
+    "adventures/homebrew/night of the living dreads/1_monologue.md",
     "adventures/homebrew/shadows of the shifting sands/0_synopsis.md",
     "adventures/homebrew/shadows of the shifting sands/1_monologue.md",
     "adventures/README.md",
+    "characters/README.md",
+    "adventures/homebrew/night of the living dreads",
+    "adventures/homebrew/Untitled.md",
     "homebew/shadows.md",
     "homebew",
     "README.md",
     "rules/README.md",
     "resources/README.md",
-    "characters/README.md",
     "resources",
     "characters",
     "rules",
