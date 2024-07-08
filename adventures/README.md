@@ -6,6 +6,6 @@ The Adventures directory contains various adventure modules, quests, and campaig
 
 | Adventure Name | Description |
 |----------------|-------------|
-| [Shadows of the Shifting Sands](#) | In the realm of Arabian Nights, a group of adventurers embarks on a perilous quest to retrieve the stolen Orb of Al'Mazhar and prevent the malevolent Shadow Sultan from plunging the world into eternal darkness |
-
+| [Shadows of the Shifting Sands](<homebrew\short\shadows of the shifting sands\2_episode_1.md>) | In the realm of Arabian Nights, a group of adventurers embarks on a perilous quest to retrieve the stolen Orb of Al'Mazhar and prevent the malevolent Shadow Sultan from plunging the world into eternal darkness |
+| [Descent Into Avernus](<wotr\descent into avernus\session1\0_synopsis.md>) | Baldur's Gate: Descent into Avernus is an adventure module for the 5th edition of the Dungeons & Dragons fantasy role-playing game.  |
 
