@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "adventures/wotr/descent into avernus/session1/0_synopsis.md",
+                "file": "adventures/wotc/descent into avernus/session1/0_synopsis.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "314e50066d7ae565",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "adventures/wotc/descent into avernus/session3/0_synopsis.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "adventures/wotr/descent into avernus/session1/0_synopsis.md",
+                "file": "adventures/wotc/descent into avernus/session3/0_synopsis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "adventures/wotr/descent into avernus/session1/0_synopsis.md",
+                "file": "adventures/wotc/descent into avernus/session3/0_synopsis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "adventures/wotr/descent into avernus/session1/0_synopsis.md"
+                "file": "adventures/wotc/descent into avernus/session3/0_synopsis.md"
               }
             }
           }
@@ -146,8 +159,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "27622a997f5ab4d5",
+  "active": "314e50066d7ae565",
   "lastOpenFiles": [
+    "adventures/wotc/descent into avernus/session2/0_synopsis.md",
+    "adventures/wotc/descent into avernus/session3/0_synopsis.md",
+    "adventures/wotc/descent into avernus/session1/0_synopsis.md",
+    "adventures/wotc/descent into avernus/session3",
+    "Pasted image 20240728172039.png",
+    "Pasted image 20240728172034.png",
     "adventures/wotr/descent into avernus/session2/README.md",
     "adventures/homebrew/short/shadows of the shifting sands/2_episode_1.md",
     "README.md",
